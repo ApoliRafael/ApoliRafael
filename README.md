@@ -2,8 +2,8 @@
 
 ##
 
-- 📚 I’m currently learning JavaScript, focused in front-end libraries like React;
-- 🤔 I’m looking for help with JavaScript based project ideas, since I would like to develop my skills;
+- 📚 I’m currently learning JavaScript, focused in front-end libraries like React
+- 🤔 I’m looking for help with JavaScript based project ideas, since I would like to develop my skills
 - 💬 Ask me about anything and I'll try to help ;)
 - 📫 You can reach me by my email adress -> apoli.rafael@outlook.com
 - 😄 Pronouns: he/him
