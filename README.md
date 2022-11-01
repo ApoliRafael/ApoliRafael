@@ -7,7 +7,7 @@
 - 💬 Ask me about anything and I'll try to help ;)
 - 📫 You can reach me by my email adress -> apoli.rafael@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm not used to drink coffee haha 
+- ⚡ Fun fact: I'm not used to drinking coffee haha 
 
 <div>
   <a href="https://github.com/ApoliRafael">
